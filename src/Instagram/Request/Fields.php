@@ -123,7 +123,6 @@ class Fields {
 	        self::MEDIA_URL,
 	        self::PERMALINK,
 	        self::TIMESTAMP,
-	        self::THUMBNAIL_URL
 	    );
 
 	    // return default fields based on flag
